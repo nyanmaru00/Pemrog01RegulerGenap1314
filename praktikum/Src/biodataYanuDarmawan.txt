@@ -1,0 +1,11 @@
+//belajar Git dengan melakukan pusd pada github
+//Menampilkan biodata pribadi 
+//Perintah yng kedua 
+
+Nama               : Yanu Darmawan 
+NIM                : 4512210017
+Alamat             : Bogor
+Tempat Lahir       : Madiun
+Hobby              : sepakbola
+email di git hub   : nyanmaru00
+email connect      : yanu.darmawan00@gmail.com
