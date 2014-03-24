@@ -1,0 +1,7 @@
+//LATIHAN REPORSITORY dan git
+//Nama File : BelajarGIT.txt
+
+Latihan GIT
+dengan memasukan file dengan bentuk .txt
+Created By : Yanu Darmawan
+Periode : 24 Maret 2014
